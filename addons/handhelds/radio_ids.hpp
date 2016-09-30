@@ -37,6 +37,31 @@ class baseClass##_##index10##9 : baseClass {displayName = displayNameBase index1
 
 
 #define TF_RADIO_IDS_999(baseClass,displayNameBase) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,2,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,3,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,4,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,5,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,6,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,7,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,8,1) \
+TF_RADIO_IDS_1(baseClass,displayNameBase,9,1) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,1) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,2) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,3) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,4) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,5) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,6) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,7) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,8) \
+TF_RADIO_IDS_10(baseClass,displayNameBase,9) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,1) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,2) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,3) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,4) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,5) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,6) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,7) \
+TF_RADIO_IDS_100(baseClass,displayNameBase,8) \
     TF_RADIO_IDS_100(baseClass,displayNameBase,9) \
     TF_RADIO_IDS_1(baseClass,displayNameBase,1000,1)
 
