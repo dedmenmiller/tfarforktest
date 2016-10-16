@@ -20,7 +20,7 @@
   </a>
   <a href="http://forums.bistudio.com/showthread.php?169029-Task-Force-Arrowhead-Radio&p=2563136&viewfull=1#post2563136">
     <img src="https://img.shields.io/badge/BIF-Thread-lightgrey.svg?style=flat"
-         alt="BIF Thread" />
+         alt="BIF Thread" />asd
   </a>
   <a href="https://github.com/michail-nikolaev/task-force-arma-3-radio/blob/master/LICENSE.md">
     <img src="http://img.shields.io/badge/License-APL--SA-red.svg?style=flat"
